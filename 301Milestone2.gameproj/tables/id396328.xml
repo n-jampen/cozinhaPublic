@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<table version="1.000000" name="Score Tables" numRows="7" numCols="4" flags="" tableType="">
+<table version="1.000000" name="HIghScore" numRows="1" numCols="4" flags="" tableType="">
     <rows>
         <row id="0" name=""/>
-        <row id="1" name=""/>
-        <row id="2" name=""/>
-        <row id="3" name=""/>
-        <row id="4" name=""/>
-        <row id="5" name=""/>
-        <row id="6" name=""/>
     </rows>
     <columns>
-        <column id="0" name="" type="1" readonly="0">,,,,,,</column>
-        <column id="1" name="" type="2" readonly="0">0,0,0,0,0,0,0</column>
-        <column id="2" name="" type="4" readonly="0">False,False,False,False,False,False,False</column>
-        <column id="3" name="" type="3" readonly="0">0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000</column>
+        <column id="0" name="Jungle" type="2" readonly="0">0</column>
+        <column id="1" name="Market" type="2" readonly="0">0</column>
+        <column id="2" name="KitchenPrep" type="4" readonly="0">False</column>
+        <column id="3" name="KitchenCook" type="3" readonly="0">0.000000</column>
     </columns>
 </table>
