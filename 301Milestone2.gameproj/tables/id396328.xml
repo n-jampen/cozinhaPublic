@@ -4,9 +4,9 @@
         <row id="0" name=""/>
     </rows>
     <columns>
-        <column id="0" name="Jungle" type="2" readonly="0">0</column>
-        <column id="1" name="Market" type="2" readonly="0">0</column>
+        <column id="0" name="Jungle" type="4" readonly="0">False</column>
+        <column id="1" name="Market" type="4" readonly="0">False</column>
         <column id="2" name="KitchenPrep" type="4" readonly="0">False</column>
-        <column id="3" name="KitchenCook" type="3" readonly="0">0.000000</column>
+        <column id="3" name="KitchenCook" type="4" readonly="0">False</column>
     </columns>
 </table>
