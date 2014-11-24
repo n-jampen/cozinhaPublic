@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <table version="1.000000" name="HIghScore" numRows="1" numCols="4" flags="" tableType="">
     <rows>
-        <row id="0" name=""/>
+        <row id="0" name="Belem"/>
     </rows>
     <columns>
         <column id="0" name="Jungle" type="4" readonly="0">False</column>
